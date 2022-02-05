@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "project-55",
+    "name": "Project 56 - DJ Mixer App",
     "slug": "snack-28f53f1e-a737-4773-bfe7-c6f4fad03e22",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,7 +26,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo.png"
     }
   }
 }
